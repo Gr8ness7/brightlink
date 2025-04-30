@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.brightlink-connections]
+path = "contracts/brightlink-connections.clar"
+depends_on = []
+
 [contracts.brightlink-identity]
 path = "contracts/brightlink-identity.clar"
 depends_on = []
