@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/brightlink-connections.clar"
 depends_on = []
 
+[contracts.brightlink-followups]
+path = "contracts/brightlink-followups.clar"
+depends_on = []
+
 [contracts.brightlink-identity]
 path = "contracts/brightlink-identity.clar"
 depends_on = []
