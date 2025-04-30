@@ -16,6 +16,10 @@ depends_on = []
 path = "contracts/brightlink-identity.clar"
 depends_on = []
 
+[contracts.brightlink-reputation]
+path = "contracts/brightlink-reputation.clar"
+depends_on = []
+
 [contracts.user-profile]
 path = "contracts/user-profile.clar"
 depends_on = []
